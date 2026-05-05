@@ -41,7 +41,5 @@ int main(int argc, char** argv)
         std::cout << "Please drop a file into the Editor to begin" << std::endl;
     }
 
-
-    system("pause");
     return 0;
 }
